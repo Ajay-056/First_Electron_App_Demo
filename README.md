@@ -16,7 +16,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 # Clone this repository
 git clone https://github.com/Ajay-056/First_Electron_App_Demo.git
 # Go into the repository
-cd electron-quick-start
+cd First_Electron_App_Demo
 # Install dependencies
 npm install
 # Run the app
